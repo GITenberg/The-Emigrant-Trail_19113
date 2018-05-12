@@ -1,0 +1,27 @@
+_repo: The-Emigrant-Trail_19113
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bonner, Geraldine
+    birthdate: 1870
+    deathdate: 1930
+    gutenberg_agent_id: '3132'
+    url: http://www.gutenberg.org/2009/agents/3132
+    wikipedia: http://en.wikipedia.org/wiki/Geraldine_Bonner
+description: ''
+gutenberg_issued: '2006-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Overland journeys to the Pacific -- Fiction'
+- !lcc 'PS'
+title: The Emigrant Trail
+url: http://www.gutenberg.org/ebooks/19113
